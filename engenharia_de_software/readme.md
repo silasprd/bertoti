@@ -3,4 +3,4 @@
 
 Titus Winters, Software Engineering at Google
 
-## Engenharia de software é o que mantém o sistema construído pelos desenvolvedores, em funcionamento ao longo dos anos. Fiscalizando e arquitetando todo o processo de criar e suportar o software.
+# Engenharia de software é o que mantém o sistema construído pelos desenvolvedores, em funcionamento ao longo dos anos. Fiscalizando e arquitetando todo o processo de criar e suportar o software, aplicando os princípios da engenharia na sua base de dados. Em suma, engenheiros de software usualmente instruem os desenvolvedores sobre o que o sistema deve ser, enquanto os desenvolvedores se dedicam exclusivamente em transformar estas instruções em código necessário para rodar o sistema.
