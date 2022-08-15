@@ -3,4 +3,4 @@
 
 Titus Winters, Software Engineering at Google
 
-Silas_Rafael_Barreto_Prado_https://github.com/silasprd/bertoti
+## Engenharia de software é o que mantém o sistema construído pelos desenvolvedores, em funcionamento ao longo dos anos. Fiscalizando e arquitetando todo o processo de criar e suportar o software.
