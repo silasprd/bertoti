@@ -1,0 +1,80 @@
+public class Anime {
+    private String name;
+    private String genre;
+    private String description;
+    private String link;
+    
+    public Anime(String name, Genre genre, String description, String link) {
+            this.name = name;
+            this.genre = genre;
+            this.description = description;
+            this.link = link;
+    }
+
+    public String getName() {
+        return name;
+    }
+    public void setName(String newName) {
+        name = newName;
+    }
+
+
+    public Genre getGenre() {
+        return genre;
+    }
+    public void setGenre(Genre newGenre) {
+        genre = newGenre;
+    }
+
+
+    public String getDescription() {
+        return description;
+    }
+    public void setDescription(String newDescription) {
+        description = newDescription;
+    }
+
+
+    public String getLink() {
+        return link;
+    }
+    public void setLink(String newLink) {
+        link = newLink;
+    }
+
+}
+
+public class Genre {
+    private String first;
+    private String second;
+    private String third;
+
+    public Genre(String first, String second, String third){
+        this.first = first;
+        this.second = second;
+        this.third = third;
+    }
+
+    public String getFirstGenre() {
+        return first;
+    }
+    public void setFirstGenre(String newFirst) {
+        first = newFirst;
+    }
+
+
+    public String getSecondGenre() {
+        return second;
+    }
+    public void setSecondGenre(String newSecond) {
+        second = newSecond;
+    }
+
+
+    public String getThirdGenre() {
+        return third;
+    }
+    public void setThirdGenre(String newThird) {
+        third = newThird;
+    }
+}
