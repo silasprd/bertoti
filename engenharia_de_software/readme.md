@@ -26,4 +26,4 @@ Titus Winters, Software Engineering at Google
 
 ### Diagrama de classes
 
-<img src="DIAGRAMA_ANIPAD.png"></img>
+<img src="DIAGRAMA_ANIPAD.PNG"></img>
