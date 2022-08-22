@@ -23,3 +23,7 @@ Titus Winters, Software Engineering at Google
 ##### - View and execute responsively in diferents platforms
 ##### - Interface of simple access, utilization and view
 ##### - Application architecture with mvc model
+
+### Diagrama de classes
+
+<img src="DIAGRAMA_ANIPAD.png"></img>
