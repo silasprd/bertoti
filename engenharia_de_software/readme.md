@@ -24,6 +24,6 @@ Titus Winters, Software Engineering at Google
 ##### - Interface of simple access, utilization and view
 ##### - Application architecture with mvc model
 
-### Diagrama de classes
+### Class diagram
 
 <img src="diagrama_anipad.PNG">
