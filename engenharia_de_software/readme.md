@@ -8,3 +8,11 @@ Titus Winters, Software Engineering at Google
 
 
 # PROJECTS
+
+## AniPad
+### This project is a system for user save some animes that he likes for watch another time.
+
+### Requirements:
+#### - The user can register a anime that he likes.
+#### - The user can search a anime for name.
+#### - The user can search a anime group for genre.
