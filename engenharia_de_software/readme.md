@@ -26,7 +26,7 @@ Titus Winters, Software Engineering at Google
 
 ### Class diagram
 
-<img src="diagrams.PNG">
+<img src="class_diagram.PNG">
 
 ### Use cases diagram
 
