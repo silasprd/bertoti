@@ -30,4 +30,4 @@ Titus Winters, Software Engineering at Google
 
 ### Use cases diagram
 
-<img src="use_cases.PNG">
+<img src="use_cases_diagram.PNG">
