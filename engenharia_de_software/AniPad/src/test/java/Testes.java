@@ -54,13 +54,13 @@ public class Testes {
         
         // 1 classe de equival�ncia para registrar um anime(objeto)
 	anipad.registerAnime(new Anime("DBZ", new Genre("Acao", "Aventura", "Shounen"), "oi eu sou o goku", "dbz.com"));		
-	assertEquals(anipad.getAnimes().size(), 1);
+	assertEquals(anipad.getAnimes().size(), 1); // apenas 1 animes registrado
         
         // 1 classe de equival�ncia para registrar n animes(objetos)
 		anipad.registerAnime(new Anime("Tokyo Ghoul", new Genre("Acao", "Terror", "Sobrenatural"), "quanto � 1000 - 7", "tokyoghoul.com"));
 		anipad.registerAnime(new Anime("Naruto", new Genre("Acao", "Aventura", "Fantasia"), "esse � meu jeito ninja", "naruto.com"));
 		
-		assertEquals(anipad.getAnimes().size(), 3);
+		assertEquals(anipad.getAnimes().size(), 3); //3 animes registrados
 		
 		// Testes de classe de equivalência para o método findToGenre()
 		
@@ -78,9 +78,9 @@ public class Testes {
 		anipad.registerAnime(new Anime("Jujutsu Kaisen", new Genre("Acao", "Terror", "Sobrenatural"), "feiticeiro jujutsu", "jujutsukaisen.com"));
 		anipad.registerAnime(new Anime("Noragami", new Genre("Acao", "Terror", "Sobrenatural"), "Seki", "noragami.com"));
 
-		List<Anime> founds3 = anipad.findToGenre(new Genre("Acao", "Aventura", "Sobrenatural"));
+		List<Anime> founds3 = anipad.findToGenre(new Genre("Acao", "Terror", "Sobrenatural"));
 		
-		assertEquals(founds3.size(),0);
+		assertEquals(founds3.size(),3);
 
 		//Testes de Classes de Equivalencia para o método findToName()
 		//1 classe de equivalencia retorna 1 anime
