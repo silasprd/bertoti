@@ -34,7 +34,11 @@ Titus Winters, Software Engineering at Google
 
 ### Class
 
-<div style="display: flex;">
-    <img srd="Anime.PNG">
-    <img srd="AnimeClass.PNG">
-</div>
+##### AniPad
+<img src="anipad_class.PNG">
+
+##### Anime
+<img src="anime_class.PNG">
+
+##### Genre
+<img src="genre_class.PNG">
