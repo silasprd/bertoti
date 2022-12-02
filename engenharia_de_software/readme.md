@@ -35,6 +35,6 @@ Titus Winters, Software Engineering at Google
 ### Class
 
 <div style="display: flex;">
-    <img srd="./Diagramas_e_classes/Anime.PNG">
-    <img srd="./Diagramas_e_classes/AnimeClass.PNG">
+    <img srd="Anime.PNG">
+    <img srd="AnimeClass.PNG">
 </div>
