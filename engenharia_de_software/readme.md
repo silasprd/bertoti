@@ -31,3 +31,10 @@ Titus Winters, Software Engineering at Google
 ### Use cases diagram
 
 <img src="use_cases_diagram.PNG">
+
+### Class
+
+<div style="display: flex;">
+    <img srd="./Diagramas_e_classes/Anime.PNG">
+    <img srd="./Diagramas_e_classes/AnimeClass.PNG">
+</div>
