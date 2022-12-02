@@ -32,7 +32,7 @@ Titus Winters, Software Engineering at Google
 
 <img src="use_cases_diagram.PNG">
 
-### Class
+### Classes
 
 ##### AniPad
 <img src="anipad_class.PNG">
